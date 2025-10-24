@@ -24,7 +24,7 @@ A competição utiliza uma banca de cinco jurados, cada um fornecendo uma nota d
 
 Para executar o projeto, você precisa ter o Node.js instalado em sua máquina.
 
-1.  Salve o conteúdo do arquivo `notas_atletas_solucao_unica.js` em um arquivo local.
+1.  Salve o conteúdo do arquivo `notas-atletas.js` em um arquivo local.
 2.  Abra o terminal na pasta onde o arquivo foi salvo.
 3.  Execute o script com o comando `node`:
 
