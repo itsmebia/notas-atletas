@@ -4,8 +4,6 @@
 
 Este projeto consiste em uma aplicação JavaScript desenvolvida para calcular a média de notas de atletas em uma competição de ginástica artística. O cálculo segue uma regra específica: a média é determinada a partir das notas atribuídas por cinco jurados, **desconsiderando-se a maior e a menor nota**.
 
-O objetivo principal foi criar uma solução com **código limpo (Clean Code)**, utilizando funções bem definidas, nomes descritivos em português e seguindo o Princípio da Responsabilidade Única (SRP) para garantir a legibilidade e a manutenibilidade do código.
-
 ## 📐 Regra de Avaliação
 
 A competição utiliza uma banca de cinco jurados, cada um fornecendo uma nota de 1 a 10. A média final (Média Válida) do atleta é calculada da seguinte forma:
